@@ -1,6 +1,8 @@
 # Readynas KodBox Applications 
 KodBox for Netgear Readynas 是运行在网件ReadyNas机上基于PHP的私有云存储服务。
+App内部集成KodBox（v1.09），支持在线升级。
 官方链接：https://kodcloud.com/
+
 
 ## 私有云存储&协同办公
 > * 几分钟内搭建您的专属私有云盘/企业网盘
@@ -10,9 +12,7 @@ KodBox for Netgear Readynas 是运行在网件ReadyNas机上基于PHP的私有�
 > * 全平台覆盖: 支持主流浏览器,Windows/Mac客户端,Android/iOS移动端APP,webdav挂载
 > * 数百种文件格式在线预览、编辑和播放
 
-App内部集成KodBox（v1.09），支持在线升级。
-环境要求: php 5.3及以上 + mysql/sqlite;
-环境推荐: centos7+php7.3+nginx+mysql5.7+redis
+
 
 
 * 支持以下ReadyNAS存储设备：
