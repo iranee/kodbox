@@ -1,0 +1,14 @@
+<Application resource-id="kodbox">
+<AppID>WHOCARES_GENIEAPP_011015</AppID>
+<Category>APP_CAT_NETWORK_OTHER</Category> 
+<Name>Kodbox</Name>
+<Author>bbis</Author>
+<Version>1.09</Version>
+<RequireReboot>1</RequireReboot>
+<ConfigURL></ConfigURL>
+<LaunchURL>http://localhost:6600/</LaunchURL>
+<ReservePort>6600</ReservePort>
+<DebianPackage>kodbox</DebianPackage>
+<ServiceName/><!-- no service required -->
+<Description lang="zh-cn">全新可道云kodbox采用了数据库+文件存储的方式，提供私有云存储/企业网盘/企业云盘和在线文档管理解决方案，助力企业实现办公协作、Office在线编辑、安全存储访问和组织权限控制。</Description>
+</Application>
