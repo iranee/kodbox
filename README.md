@@ -33,7 +33,7 @@ App内部集成KodBox（v1.09），支持在线升级。
 * 1， 下载以 **.deb** 结尾的安装程序
 * 2， 进入ReadyNAS管理界面，点进 **应用程序**
 * 3， 选择上传并安装应用程序
-![安装图解](https://github.com/iranee/kodexplorer/blob/master/install.jpg)
+![安装图解](https://raw.githubusercontent.com/iranee/kodbox/master/update.jpg)
 
 ![info](https://raw.githubusercontent.com/iranee/kodbox/master/install.png)
 
