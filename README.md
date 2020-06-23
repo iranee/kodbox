@@ -35,6 +35,6 @@ App内部集成KodBox（v1.09），支持在线升级。
 * 3， 选择上传并安装应用程序
 ![安装图解](https://github.com/iranee/kodexplorer/blob/master/install.jpg)
 
-![info](https://github.com/iranee/kodexplorer/blob/master/ui.jpg)
+![info](https://raw.githubusercontent.com/iranee/kodbox/master/install.png)
 
 ![info](https://github.com/iranee/kodexplorer/blob/master/ui2.jpg)
